@@ -1,0 +1,21 @@
+/* Uncomment if you'd like to use Bulma's initial vars here (e.g. $white, $black-ter, etc.) */
+//@import "~bulma/sass/utilities/initial-variables";
+
+/* Default font */
+$family-sans-serif: "serif", "Roboto", "Nunito", "sans-serif";
+
+/* Body background color */
+$body-background-color: #ffffff;
+$primary: #cfff6d;
+$info: #292f36;
+$light: #ffe66d;
+
+/* Import Bulma 86A194
+
+<div class="notification light has-text-centered">
+  Disclaimer: Our free lottery winning numbers prediction service is provided as is, we don't provide any guarantees or warranty or the uniqueness of numbers predicted.
+</div>*/
+@import "~bulma/bulma";
+
+// Fonts
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
