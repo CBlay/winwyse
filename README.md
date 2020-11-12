@@ -13,6 +13,8 @@ Winwyse is built with love on top of the following technologies:
   - Javascript
   - Bulma CSS
   - JSON
+  - JQuery
+  - Paystack Api
  
 ## Contributing
  
